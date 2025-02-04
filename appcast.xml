@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SparkleSampleApp</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 04 Feb 2025 13:15:14 +0530</pubDate>
+            <link>https://github.com/aksh1t/Sparkle-Test/releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aksh1t/Sparkle-Test/releases/download/v1.0.0/SparkleSampleApp-Notarized.zip" length="965004" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
