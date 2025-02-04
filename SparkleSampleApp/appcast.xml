@@ -3,13 +3,13 @@
     <channel>
         <title>SparkleSampleApp</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Tue, 04 Feb 2025 13:42:18 +0530</pubDate>
-            <link>https://github.com/aksh1t/Sparkle-Test/releases</link>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Tue, 04 Feb 2025 11:01:03 +0000</pubDate>
+            <link>https://github.com/aksh1t/Sparkle-Test/SparkleSampleApp/releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aksh1t/Sparkle-Test/releases/download/sparklesampleapp-1.0.0/SparkleSampleApp.zip" length="964139" type="application/octet-stream"/>
+            <enclosure url="https://github.com/aksh1t/Sparkle-Test/SparkleSampleApp/releases/download/SparkleSampleApp-1/SparkleSampleApp-Notarized.zip" length="940401" type="application/octet-stream" sparkle:edSignature="ae8GSUqbgmF0WHAlak94/HyTnrSLFCAxYAnu291BLKtMUov3TLvBYg6v0DLZdcNyRvvgoKorZC8iPmwG8+PIDA=="/>
         </item>
     </channel>
 </rss>
